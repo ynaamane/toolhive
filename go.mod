@@ -85,6 +85,7 @@ require github.com/hashicorp/golang-lru/v2 v2.0.7
 require (
 	cel.dev/cel-go v0.32.0
 	github.com/cenkalti/backoff/v5 v5.0.3
+	github.com/cenkalti/backoff/v7 v7.0.0
 	github.com/github/smimesign v0.2.0
 	github.com/lestrrat-go/jwx/v3 v3.2.0
 	go.starlark.net v0.0.0-20260908191801-89a6a09411d5
