@@ -86,7 +86,8 @@ require (
 	cel.dev/cel-go v0.32.0
 	github.com/cenkalti/backoff/v5 v5.0.3
 	github.com/github/smimesign v0.2.0
-	github.com/lestrrat-go/jwx/v3 v3.3.0
+	github.com/lestrrat-go/jwx/v3 v3.2.0
+	github.com/lestrrat-go/jwx/v4 v4.5.0
 	go.starlark.net v0.0.0-20260908191801-89a6a09411d5
 )
 
